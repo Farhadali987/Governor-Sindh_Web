@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../components/header'
+import Footer from '../components/footer'
 const Jobs = () => {
   return (
     <>
@@ -20,6 +21,8 @@ const Jobs = () => {
   <a href="">Ambient Computing and IoT</a>
   <a href="">Genomics and Bioinformatics</a>
   <a href="">Network Programmability and Automation </a>
+
+  < Footer />
 </div>
    </div>
    </>
