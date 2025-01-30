@@ -15,7 +15,8 @@ const Footer = () => {
                 <div className='text-zinc-800'>
                     <h1 className='text-xl font-bold'>Core Courses</h1>
                     <div className='mt-5 flex flex-col gap-3 text-sm md:text-base'>
-                        <a href="">Programming Fundamentals</a>
+                        <a init
+ href="">Programming Fundamentals</a>
                         <a href="">Web2 Using Next js</a>
                         <a href="">Earn as You Learn</a>
                     </div>

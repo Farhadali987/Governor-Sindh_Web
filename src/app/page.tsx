@@ -8,7 +8,8 @@ import Footer from './components/footer';
 const page = () => {
   return (
     <>
-    <Header />
+
+   <Header />
     <Herosection />
     <Section02 />
     <Section03 />
